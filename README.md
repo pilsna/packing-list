@@ -20,6 +20,7 @@ For additional packing-speed, there's a section per bag
 
 - [ ] Additional battery for phone
 - [ ] Book
+- [ ] Camera
 - [ ] Chewing gum to pop ears
 - [ ] Copy of passport, alarm numbers
 - [ ] Foreign plug adapter
@@ -45,17 +46,16 @@ For additional packing-speed, there's a section per bag
 - [ ] Gloves / Hat
 - [ ] Party-trousers
 - [ ] Plastic bag for loundry / to sit on wet stuff
-- [ ] Speakers
+- [ ] Camera charger
 - [ ] Sunscreen
 - [ ] Swimming shorts
 - [ ] Swiss knife with some tools
-- [ ] Umbrella
 - [ ] {num_days} * 1 Boxershorts
 - [ ] {num_days} * 1 Socks
-- [ ] {num_days} * 1 T-Shirts
-- [ ] {num_days} / 3 Shorts
-- [ ] {num_days} / 3 Sweaters
-- [ ] {num_days} / 3 Trousers
+- [ ] {num_days} * 0.5 T-Shirts
+- [ ] {num_days} / 4 Shorts
+- [ ] {num_days} / 4 Sweaters
+- [ ] {num_days} / 4 Trousers
 - [ ] {num_days} / 7 Towels
 
 ## The toiletry bag
@@ -63,14 +63,12 @@ For additional packing-speed, there's a section per bag
 - [ ] Condoms (just for party-tricks ofc)
 - [ ] Deodorant 100ml
 - [ ] Hairgel 100ml
-- [ ] Ibuprofen
-- [ ] Patchers / Iodine / Small scissor
-- [ ] Rennie
+- [ ] Panodil/Ibuprofen
+- [ ] Stomach help
 - [ ] Showergel 100ml
-- [ ] Swabs
 - [ ] Toothbrush & paste
 - [ ] Transparent plastic bag for small liquids
-- [ ] Vitaminsuplements
+- [ ] Shaver and foam
 
 ## Before I leave
 
@@ -80,14 +78,12 @@ For additional packing-speed, there's a section per bag
 - [ ] Check time difference
 - [ ] Check-in online, write down times & Terminal nr
 - [ ] Cleanup wallet. Check if creditcard is in there and you know it's PIN code.
-- [ ] Clip nails, so you don't have to abroad
-- [ ] Download some city "[off](http://www.offmaps.com/)-maps" if I'll have limited intertubes there
+- [ ] Download some city in Google Maps if I'll have limited intertubes there
 - [ ] Enable ATM access in foreign country if needed
 - [ ] Find out what's a cheap way to have internet there
-- [ ] Make a few Spotify offline playlists on the phone. Don't wanna use up all that country's bandwith.
+- [ ] Prepare some offline music
 - [ ] Shave, so you don't have to abroad
 - [ ] Take care of pending (E)Mails
-- [ ] Water plants, arrange for pet babysitters
 - [ ] Weigh bags if in doubt. Make sure Carry-on still fits inside luggage when not checking in any.
 
 ## When I leave
@@ -98,7 +94,7 @@ For additional packing-speed, there's a section per bag
 ## Tips
 
 - Keep a spare of all toiletry items so you can just keep that bag in your suitcase.
-- Nothing beats [printing](https://raw.github.com/kvz/packing-list/master/README.md) 
+- Nothing beats [printing](https://raw.github.com/pilsna/packing-list/master/README.md) 
 and checking these with a pen ; )
 - Calculations are rounded up : )
 
