@@ -19,14 +19,11 @@ For additional packing-speed, there's a section per bag
 ## The carry-on
 
 - [ ] Additional battery for phone
-- [ ] Bank identifier
 - [ ] Book
 - [ ] Chewing gum to pop ears
-- [ ] Coins to buy {hours_flight} / 3 .5l bottles of water after security check
 - [ ] Copy of passport, alarm numbers
-- [ ] Earplugs to defend against children
 - [ ] Foreign plug adapter
-- [ ] {hours_flight} / 2 Granola bar
+- [ ] {hours_flight} / 5 Mars bars
 - [ ] Headset
 - [ ] Laptop
 - [ ] Magazine
@@ -35,7 +32,10 @@ For additional packing-speed, there's a section per bag
 - [ ] Phone charger
 - [ ] Present for host
 - [ ] Sunglasses
-- [ ] Tablet
+- [ ] Inflatable pillow
+- [ ] Allergy medicin
+- [ ] Hand desinfection
+
 
 ## The suitcase
 
@@ -62,10 +62,8 @@ For additional packing-speed, there's a section per bag
 
 - [ ] Condoms (just for party-tricks ofc)
 - [ ] Deodorant 100ml
-- [ ] Earplugs
 - [ ] Hairgel 100ml
 - [ ] Ibuprofen
-- [ ] Lip balm
 - [ ] Patchers / Iodine / Small scissor
 - [ ] Rennie
 - [ ] Showergel 100ml
